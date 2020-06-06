@@ -1,5 +1,7 @@
 {
   "mongoURI": "mongodb+srv://AdminUser:PIVOShqV4j5zBf1v@devconnect-y24dm.gcp.mongodb.net/DevConnect?retryWrites=true&w=majority",
   "jwtSecret": "mySecretTokent",
-  "tokenExpire": 36000
+  "tokenExpire": 36000,
+  "githubClientId": "4b3d8f750cf9ae6ebfbf",
+  "githubSecret": "f4cc7825721c14515b8d1bc1a562c786d234965a"
 }
